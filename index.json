@@ -11,13 +11,13 @@
         "name": "AquaReader",
         "packageName": "eu.kanade.tachiyomi.extension.en.aquareader",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.aquareader-v1.4.53.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.aquareader-v1.4.54.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.aquareader.png",
-          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.aquareader-v1.4.53.jar"
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.aquareader-v1.4.54.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
+        "versionCode": "54",
+        "versionName": "1.4.54",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
