@@ -8,6 +8,48 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "AquaReader",
+        "packageName": "eu.kanade.tachiyomi.extension.en.aquareader",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.aquareader-v1.4.53.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.aquareader.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.aquareader-v1.4.53.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "53",
+        "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5208474089991551942",
+            "name": "AquaReader",
+            "language": "en",
+            "homeUrl": "https://aquareader.org"
+          }
+        ]
+      },
+      {
+        "name": "FlameComics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.flamecomix",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.flamecomix-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.flamecomix.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.flamecomix-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7770458229220910108",
+            "name": "FlameComics",
+            "language": "en",
+            "homeUrl": "https://flamecomics.xyz"
+          }
+        ]
+      },
+      {
         "name": "KaliScan",
         "packageName": "eu.kanade.tachiyomi.extension.en.kaliscan",
         "resources": {
@@ -35,6 +77,27 @@
         ]
       },
       {
+        "name": "LikeManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.likemangaink",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.likemangaink-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.likemangaink.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.likemangaink-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6236979603959140497",
+            "name": "LikeManga",
+            "language": "en",
+            "homeUrl": "https://likemanga.ink"
+          }
+        ]
+      },
+      {
         "name": "MangaGeko",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangageko",
         "resources": {
@@ -52,6 +115,27 @@
             "name": "MangaGeko",
             "language": "en",
             "homeUrl": "https://www.mgeko.cc"
+          }
+        ]
+      },
+      {
+        "name": "MangaPill",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangapillcom",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.mangapillcom-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.mangapillcom.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.mangapillcom-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8448310129093543312",
+            "name": "MangaPill",
+            "language": "en",
+            "homeUrl": "https://mangapill.com"
           }
         ]
       },
@@ -115,6 +199,48 @@
             "name": "MangaZin",
             "language": "en",
             "homeUrl": "https://mangazin.org"
+          }
+        ]
+      },
+      {
+        "name": "ManhwaZ",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhwazcom",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.manhwazcom-v1.4.53.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.manhwazcom.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.manhwazcom-v1.4.53.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "53",
+        "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "651625426989893977",
+            "name": "ManhwaZ",
+            "language": "en",
+            "homeUrl": "https://manhwaz.com"
+          }
+        ]
+      },
+      {
+        "name": "WeebCentral",
+        "packageName": "eu.kanade.tachiyomi.extension.en.wcentral",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.wcentral-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.wcentral.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.wcentral-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2276222502310437069",
+            "name": "WeebCentral",
+            "language": "en",
+            "homeUrl": "https://weebcentral.com"
           }
         ]
       }
