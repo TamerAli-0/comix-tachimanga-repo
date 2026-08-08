@@ -9,15 +9,15 @@
     "extensions": [
       {
         "name": "MangaGeko",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangarawclub",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangageko",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.mangarawclub-v1.4.34.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.mangarawclub.png",
-          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.mangarawclub-v1.4.34.jar"
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.mangageko-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.mangageko.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.mangageko-v1.4.1.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
+        "versionCode": "1",
+        "versionName": "1.4.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
