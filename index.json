@@ -12,7 +12,8 @@
         "packageName": "eu.kanade.tachiyomi.extension.en.mangarawclub",
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.mangarawclub-v1.4.34.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.mangarawclub.png"
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.mangarawclub.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.mangarawclub-v1.4.34.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "34",
