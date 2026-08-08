@@ -8,6 +8,33 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "KaliScan",
+        "packageName": "eu.kanade.tachiyomi.extension.en.kaliscan",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.kaliscan-v1.4.25.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.kaliscan.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.kaliscan-v1.4.25.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "25",
+        "versionName": "1.4.25",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8232267997700081575",
+            "name": "KaliScan",
+            "language": "en",
+            "homeUrl": "https://kaliscan.io",
+            "mirrorUrls": [
+              "https://kaliscan.io",
+              "https://kaliscan.com",
+              "https://kaliscan.me",
+              "https://mgjinx.com"
+            ]
+          }
+        ]
+      },
+      {
         "name": "MangaGeko",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangageko",
         "resources": {
@@ -25,6 +52,69 @@
             "name": "MangaGeko",
             "language": "en",
             "homeUrl": "https://www.mgeko.cc"
+          }
+        ]
+      },
+      {
+        "name": "MangaRead",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangaread",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.mangaread-v1.4.53.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.mangaread.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.mangaread-v1.4.53.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "53",
+        "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8869272433642887003",
+            "name": "MangaRead",
+            "language": "en",
+            "homeUrl": "https://www.mangaread.org"
+          }
+        ]
+      },
+      {
+        "name": "MangaTown",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangatown",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.mangatown-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.mangatown.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.mangatown-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2703831045012166262",
+            "name": "MangaTown",
+            "language": "en",
+            "homeUrl": "https://www.mangatown.com"
+          }
+        ]
+      },
+      {
+        "name": "MangaZin",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangazin",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.mangazin-v1.4.53.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.mangazin.png",
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.mangazin-v1.4.53.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "53",
+        "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4822336804889132468",
+            "name": "MangaZin",
+            "language": "en",
+            "homeUrl": "https://mangazin.org"
           }
         ]
       }
