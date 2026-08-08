@@ -13,7 +13,7 @@
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.comix-v1.4.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.comix.png",
-          "jarUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/jar/tachiyomi-en.comix-v1.4.37.jar"
+          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.comix-v1.4.37.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "37",
