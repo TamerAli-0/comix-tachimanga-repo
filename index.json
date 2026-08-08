@@ -8,39 +8,15 @@
   "extensionList": {
     "extensions": [
       {
-        "name": "Comix",
-        "packageName": "eu.kanade.tachiyomi.extension.en.comix",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.comix-v1.4.39.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.comix.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "39",
-        "versionName": "1.4.39",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "7537715367149829912",
-            "name": "Comix",
-            "language": "en",
-            "homeUrl": "https://comix.to",
-            "mirrorUrls": [
-              "https://comix.to",
-              "https://comix.ws"
-            ]
-          }
-        ]
-      },
-      {
         "name": "MangaGeko",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangarawclub",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.mangarawclub-v1.4.33.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.mangarawclub-v1.4.34.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.mangarawclub.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "33",
-        "versionName": "1.4.33",
+        "versionCode": "34",
+        "versionName": "1.4.34",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
