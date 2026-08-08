@@ -11,13 +11,12 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.comix-v1.4.37.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.comix.png",
-          "jarUrl": "https://raw.githubusercontent.com/TamerAli-0/keyiOmniplugins/main/jar/tachiyomi-en.comix-v1.4.37.jar"
+          "apkUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/apk/tachiyomi-en.comix-v1.4.38.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/TamerAli-0/keyiOmniplugins@main/icon/tachiyomi-en.comix.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "37",
-        "versionName": "1.4.37",
+        "versionCode": "38",
+        "versionName": "1.4.38",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
